@@ -16,10 +16,6 @@ I'm writing this as I'm beginning this project (hopefully I complete it ;D) here
 
 I hope it works :/
 
-Edit: After completion of project -
-
-Thank you everyone for checking out the video, if you haven't it explains code in detail: https://www.youtube.com/watch?v=8-B6ryuBkCM
-
 ## **Building Requirements:**
 
 1. C++ Compiler supporting C++ 17 or newer
@@ -69,5 +65,3 @@ for 2D: simple, just run 2D_lensing.cpp with the nessesary dependencies installe
 for 3D: black_hole.cpp and geodesic.comp work together to run the simuation faster using GPU, essentially it sends over a UBO and geodesic.comp runs heavy calculations using that data.
 
 should work with nessesary dependencies installed, however I have only run it on windows with my GPU so am not sure!
-
-LMK if you would like an in-depth explanation of how the code works aswell :)
